@@ -1,4 +1,5 @@
-pip
-freeze
 flask
-gunicorn
+pandas
+numpy
+scikit-learn
+
